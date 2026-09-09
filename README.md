@@ -21,4 +21,4 @@ My current focus is agricultural price intelligence:
 ## Contact
 
 - Email: irajeev50@gmail.com
-- Web: [vervana.tridesi.in](https://vervana.tridesi.in)
+- Web: [vervana.tridesi.in](https://vervana.in)
