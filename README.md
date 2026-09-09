@@ -14,11 +14,11 @@ My current focus is agricultural price intelligence:
 
 ## Projects
 
-- [vervana-site](https://github.com/IRajeev50/vervana-site) - the Vervana company website, live at [vervana.tridesi.in](https://vervana.tridesi.in). Bilingual (English / Hindi).
+- [vervana-site](https://github.com/IRajeev50/vervana-site) - the Vervana company website, live at [vervana.in](https://vervana.in). Bilingual (English / Hindi).
 - [GrandMasters-Facilities](https://github.com/IRajeev50/GrandMasters-Facilities) - client website for a facilities management company, built with React and TypeScript.
 - [kasuvipra-website](https://github.com/IRajeev50/kasuvipra-website) - my first agribusiness website (2018), where the agriculture work started.
 
 ## Contact
 
 - Email: irajeev50@gmail.com
-- Web: [vervana.tridesi.in](https://vervana.in)
+- Web: [vervana.in](https://vervana.in)
