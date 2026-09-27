@@ -1,24 +1,52 @@
-# Rajeev Singh
+<div align="center">
 
-Co-founder & COO at [Vervana](https://vervana.tridesi.in), building supply and price infrastructure for Indian agriculture.
+![Rajeev Singh - from field signals to smarter food systems](https://capsule-render.vercel.app/api?type=waving&color=0:102C24,55:237A57,100:8DBD66&height=180&section=header&text=Rajeev%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=From%20field%20signals%20to%20smarter%20food%20systems&descSize=16&descAlignY=60)
 
-## What I do
+[![Agritech](https://img.shields.io/badge/Focus-Agritech-176B45?style=for-the-badge)](https://github.com/IRajeev50/vervana-price-intelligence)
+[![Based in India](https://img.shields.io/badge/Based_in-India-466B39?style=for-the-badge)](https://github.com/IRajeev50)
+[![Building V--AI](https://img.shields.io/badge/Building-V--AI-235D4A?style=for-the-badge)](https://vervana.in/)
 
-At Vervana I lead FPO relationships, procurement coordination, and route execution across priority states. Vervana turns harvest gluts into reliable, quality-controlled supply for modern buyers, and helps FPOs move beyond distress sales.
+</div>
 
-My current focus is agricultural price intelligence:
+### Hi, I'm Rajeev
 
-- A structured dataset built from 985 mandi report videos, converted into daily price records
-- Intraday mandi price quotes from on-ground sources, compared against government Agmarknet prices and quick-commerce / HoReCa prices
-- Next-day price forecasting to support procurement decisions
+I'm a co-founder and COO at **Vervana (V-AI)**. I work where produce, warehouses and data meet: making agricultural supply more visible, prices more traceable, and decisions more useful for people on the ground. I grew up in Singrauli and worked in commodity trading before building in agri-tech. That experience shapes what I make: tools that start with the messiness of real supply chains, not a perfect spreadsheet.
 
-## Projects
+> **The idea:** better signals from the field, better decisions across the food chain.
 
-- [vervana-site](https://github.com/IRajeev50/vervana-site) - the Vervana company website, live at [vervana.in](https://vervana.in). Bilingual (English / Hindi).
-- [GrandMasters-Facilities](https://github.com/IRajeev50/GrandMasters-Facilities) - client website for a facilities management company, built with React and TypeScript.
-- [kasuvipra-website](https://github.com/IRajeev50/kasuvipra-website) - my first agribusiness website (2018), where the agriculture work started.
+### What I'm building
 
-## Contact
+| Project | What it does | Stage |
+| :--- | :--- | :--- |
+| **[Vervana price intelligence](https://github.com/IRajeev50/vervana-price-intelligence)** | Tracks mandi prices with source evidence and explores procurement signals for Indian fresh produce. | Early build |
+| **[Vervana website](https://github.com/IRajeev50/vervana-site)** | A bilingual home for the agriculture and supply-side work. | Public site |
+| **[Kasuvipra website](https://github.com/IRajeev50/kasuvipra-website)** | My earlier agribusiness web project, and part of where this journey began. | Earlier work |
 
-- Email: irajeev50@gmail.com
-- Web: [vervana.in](https://vervana.in)
+V-AI's broader work is about adding visibility to existing warehouses, rather than building new ones. The code here is a window into the work in progress, not a claim that every field workflow is live.
+
+<details>
+<summary><strong>Elsewhere on my workbench</strong></summary>
+<br>
+
+- [SYNQ](https://github.com/IRajeev50/synq) - exploring real-world connection through shared music and proximity.
+- [SatyaLens](https://github.com/IRajeev50/satyalens) - an evidence-first verification workbench.
+
+</details>
+
+### Tools I use
+
+![Python](https://img.shields.io/badge/Python-234F3B?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-234F3B?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-234F3B?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-234F3B?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-234F3B?style=flat-square&logo=css3&logoColor=white)
+
+### GitHub activity
+
+![Rajeev's GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IRajeev50&theme=github)
+
+### Let's talk
+
+Working on traceable mandi data, FPO links or practical warehouse visibility? [Email me](mailto:irajeev50@gmail.com) or explore [Vervana](https://vervana.in/).
+
+<div align="center"><sub>From the field to the dashboard - and back to the field.</sub></div>
