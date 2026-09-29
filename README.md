@@ -1,52 +1,48 @@
-<div align="center">
+<h1 align="center">Rajeev Singh</h1>
 
-![Rajeev Singh - from field signals to smarter food systems](https://capsule-render.vercel.app/api?type=waving&color=0:102C24,55:237A57,100:8DBD66&height=180&section=header&text=Rajeev%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=From%20field%20signals%20to%20smarter%20food%20systems&descSize=16&descAlignY=60)
+<p align="center"><strong>From field signals to better food systems.</strong><br>Co-founder &amp; COO at <strong>Vervana (V-AI)</strong> · Building for Indian agriculture</p>
 
-[![Agritech](https://img.shields.io/badge/Focus-Agritech-176B45?style=for-the-badge)](https://github.com/IRajeev50/vervana-price-intelligence)
-[![Based in India](https://img.shields.io/badge/Based_in-India-466B39?style=for-the-badge)](https://github.com/IRajeev50)
-[![Building V--AI](https://img.shields.io/badge/Building-V--AI-235D4A?style=for-the-badge)](https://vervana.in/)
+<p align="center">
+<a href="https://vervana.in/"><img alt="Explore Vervana" src="https://img.shields.io/badge/Explore-Vervana-176B45?style=flat-square"></a> <a href="https://github.com/IRajeev50/vervana-price-intelligence"><img alt="Mandi intelligence" src="https://img.shields.io/badge/Project-Mandi%20intelligence-235D4A?style=flat-square"></a> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=IRajeev50&amp;color=176B45&amp;style=flat-square&amp;label=Profile+views">
+</p>
 
-</div>
+### What I work on
 
-### Hi, I'm Rajeev
+I build at the intersection of produce, warehouses and data. My work in commodity trading shaped a simple rule: if a price or supply signal cannot be traced back to its source, it is not ready to guide a decision.
 
-I'm a co-founder and COO at **Vervana (V-AI)**. I work where produce, warehouses and data meet: making agricultural supply more visible, prices more traceable, and decisions more useful for people on the ground. I grew up in Singrauli and worked in commodity trading before building in agri-tech. That experience shapes what I make: tools that start with the messiness of real supply chains, not a perfect spreadsheet.
+At Vervana, we're exploring practical ways to make agricultural supply more visible, from mandi prices to warehouse workflows. These repos show work in progress, not a claim that every workflow is live.
 
-> **The idea:** better signals from the field, better decisions across the food chain.
+### Featured projects
 
-### What I'm building
-
-| Project | What it does | Stage |
+| Project | Why it exists | Status |
 | :--- | :--- | :--- |
-| **[Vervana price intelligence](https://github.com/IRajeev50/vervana-price-intelligence)** | Tracks mandi prices with source evidence and explores procurement signals for Indian fresh produce. | Early build |
-| **[Vervana website](https://github.com/IRajeev50/vervana-site)** | A bilingual home for the agriculture and supply-side work. | Public site |
-| **[Kasuvipra website](https://github.com/IRajeev50/kasuvipra-website)** | My earlier agribusiness web project, and part of where this journey began. | Earlier work |
-
-V-AI's broader work is about adding visibility to existing warehouses, rather than building new ones. The code here is a window into the work in progress, not a claim that every field workflow is live.
+| [Vervana price intelligence](https://github.com/IRajeev50/vervana-price-intelligence) | Traceable mandi prices and procurement signals for Indian fresh produce. | Early build |
+| [Vervana website](https://github.com/IRajeev50/vervana-site) | A bilingual window into the agriculture and supply-side work. | Public site |
+| [Kasuvipra website](https://github.com/IRajeev50/kasuvipra-website) | An early agribusiness web project and a starting point for this journey. | Earlier work |
 
 <details>
-<summary><strong>Elsewhere on my workbench</strong></summary>
+<summary><strong>Open the wider workbench</strong> · experiments outside Vervana</summary>
 <br>
 
-- [SYNQ](https://github.com/IRajeev50/synq) - exploring real-world connection through shared music and proximity.
-- [SatyaLens](https://github.com/IRajeev50/satyalens) - an evidence-first verification workbench.
+- [SYNQ](https://github.com/IRajeev50/synq): a privacy-first experiment in real-world connection through music and proximity.
+- [SatyaLens](https://github.com/IRajeev50/satyalens): an evidence-first verification workbench with human review.
 
 </details>
 
-### Tools I use
+### Tools in the repo
 
-![Python](https://img.shields.io/badge/Python-234F3B?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-234F3B?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-234F3B?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-234F3B?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-234F3B?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,html,css,git,github&perline=8" alt="Python, TypeScript, JavaScript, React, HTML, CSS, Git and GitHub" />
 
 ### GitHub activity
 
-![Rajeev's GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IRajeev50&theme=github)
+<p align="center"><a href="https://github.com/IRajeev50?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IRajeev50&amp;theme=github" alt="GitHub activity and contributions for IRajeev50"></a></p>
 
-### Let's talk
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IRajeev50&amp;theme=github" alt="Languages by commits" width="320"> <img src="https://streak-stats.demolab.com/?user=IRajeev50&amp;theme=github&amp;hide_border=true" alt="GitHub contribution streak" width="320"></p>
 
-Working on traceable mandi data, FPO links or practical warehouse visibility? [Email me](mailto:irajeev50@gmail.com) or explore [Vervana](https://vervana.in/).
+<p align="center"><sub>Activity cards update from public GitHub data. Languages by commit are not a measure of proficiency; third-party images may occasionally be unavailable.</sub></p>
 
-<div align="center"><sub>From the field to the dashboard - and back to the field.</sub></div>
+### Let's connect
+
+Working on traceable mandi data, FPO networks or practical warehouse visibility? [Email me](mailto:irajeev50@gmail.com) or explore [Vervana](https://vervana.in/).
+
+<div align="center"><sub>From the field to the dashboard, and back to the field.</sub></div>
